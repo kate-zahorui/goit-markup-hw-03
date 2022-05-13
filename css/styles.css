@@ -147,8 +147,8 @@ header .contacts {
 /* ---------Hero--------- */
 
 .hero {
-    padding: 200px 452px;
-
+    padding-top: 200px;
+    padding-bottom: 200px;
     background-color: var(--background-dark-color);
     text-align: center;
 }
